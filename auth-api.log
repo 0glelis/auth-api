@@ -1,0 +1,117 @@
+2023-10-20T01:05:04.557Z [auth-api] error POST  - Name, Email e Senha são obrigatórios
+2023-10-20T01:50:33.159Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-20T01:55:57.705Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-20T01:56:14.757Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-20T01:56:33.005Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-20T01:56:41.171Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-20T02:00:16.515Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-20T02:03:04.664Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-20T02:03:10.841Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-20T02:11:32.034Z [auth-api] error POST  - null value in column "id_user" of relation "users" violates not-null constraint
+2023-10-20T02:14:15.249Z [auth-api] info POST /user - {"name":"gabriel","email":"gab007@gmail.com","pass":"11111"}
+2023-10-20T02:17:43.157Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-20T02:18:11.603Z [auth-api] info POST /user - {"name":"João","email":"joao.it00@gmail.com","pass":"1451"}
+2023-10-20T23:59:01.377Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-21T00:40:12.605Z [auth-api] info GET /user
+2023-10-21T00:41:49.419Z [auth-api] error POST  - A senha não atende aos critérios de segurança.
+2023-10-21T00:44:32.212Z [auth-api] error POST  - A senha não atende aos critérios de segurança.
+2023-10-21T00:44:40.978Z [auth-api] error POST  - A senha não atende aos critérios de segurança.
+A senha deve conter pelo menos 8 caracteres
+ e incluir pelo menos uma letra maiúscula,
+ um número e um caractere especial, como @$!%*?&.
+2023-10-21T00:45:32.178Z [auth-api] error POST  - A senha não atende aos critérios de segurança.
+A senha deve conter pelo menos 8 caracteres
+ e incluir pelo menos uma letra maiúscula,
+ um número e um caractere especial, como @$!%*?&.
+2023-10-21T00:45:49.131Z [auth-api] error POST  - A senha não atende aos critérios de segurança. A senha deve conter pelo menos 8 caracteres e incluir pelo menos uma letra maiúscula, um número e um caractere especial, como @$!%*?&.
+2023-10-21T00:57:33.994Z [auth-api] info GET /user
+2023-10-21T01:21:25.865Z [auth-api] info GET /user
+2023-10-21T01:21:28.763Z [auth-api] info GET /user
+2023-10-21T01:21:46.729Z [auth-api] info GET /user
+2023-10-21T01:22:13.709Z [auth-api] info GET /user
+2023-10-21T01:22:16.806Z [auth-api] info GET /user
+2023-10-21T01:22:40.539Z [auth-api] info GET /user
+2023-10-21T01:24:51.097Z [auth-api] info DELETE /user
+2023-10-21T01:24:54.532Z [auth-api] info DELETE /user
+2023-10-21T01:24:55.926Z [auth-api] info DELETE /user
+2023-10-21T01:26:16.791Z [auth-api] info DELETE /user
+2023-10-21T01:28:17.162Z [auth-api] info GET /user
+2023-10-21T01:30:45.167Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:31:53.319Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:34:28.875Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:34:30.948Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:34:33.754Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:34:45.440Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:35:14.059Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:35:16.664Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:35:54.059Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:35:55.116Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:39:29.502Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:39:30.888Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:41:53.300Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:42:58.887Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:43:21.289Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:45:09.805Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:51:55.563Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:52:46.071Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:58:36.161Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:58:56.130Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T01:58:57.386Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T02:04:16.536Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T02:04:19.581Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T02:04:30.559Z [auth-api] info DELETE /user
+2023-10-21T02:04:36.710Z [auth-api] info GET /user
+2023-10-21T02:05:53.125Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T02:05:54.756Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T02:07:17.935Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T02:11:17.784Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T02:11:32.829Z [auth-api] info GET /user
+2023-10-21T02:11:36.254Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T02:11:40.935Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T02:11:50.550Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T02:12:40.415Z [auth-api] error POST  - UserService.findUserByName is not a function
+2023-10-21T02:12:43.984Z [auth-api] error POST  - UserService.findUserByName is not a function
+2023-10-21T02:13:31.642Z [auth-api] error POST  - UserServiceserRepository is not defined
+2023-10-21T02:13:33.327Z [auth-api] error POST  - UserServiceserRepository is not defined
+2023-10-21T02:13:48.026Z [auth-api] error POST  - UserRepository.findUserByName is not a function
+2023-10-21T02:13:50.470Z [auth-api] error POST  - UserRepository.findUserByName is not a function
+2023-10-21T02:15:35.451Z [auth-api] error POST  - invalid input syntax for type integer: "gabriel"
+2023-10-21T02:33:34.580Z [auth-api] error POST  - A senha não atende aos critérios de segurança. A senha deve conter pelo menos 8 caracteres e incluir pelo menos uma letra maiúscula, um número e um caractere especial, como @$!%*?&.
+2023-10-21T02:33:41.120Z [auth-api] error POST  - checkUniqueUserFields is not defined
+2023-10-21T03:15:32.709Z [auth-api] error POST  - connect.oneOrNone is not a function
+2023-10-21T03:18:25.547Z [auth-api] error POST  - connect.oneOrNone is not a function
+2023-10-21T03:19:09.333Z [auth-api] error POST  - Por favor, utilize outro e-mail.
+2023-10-21T03:19:14.418Z [auth-api] info GET /user
+2023-10-21T03:19:15.974Z [auth-api] info GET /user
+2023-10-21T03:19:22.585Z [auth-api] info GET /user
+2023-10-21T03:19:25.445Z [auth-api] error POST  - Por favor, utilize outro e-mail.
+2023-10-21T03:19:29.478Z [auth-api] error POST  - Por favor, utilize outro e-mail.
+2023-10-21T03:19:36.345Z [auth-api] info GET /user
+2023-10-21T03:20:01.174Z [auth-api] error POST  - connect.query is not a function
+2023-10-21T03:20:37.039Z [auth-api] error POST  - Por favor, utilize outro e-mail.
+2023-10-21T03:20:40.031Z [auth-api] error POST  - Por favor, utilize outro e-mail.
+2023-10-21T03:20:43.803Z [auth-api] info GET /user
+2023-10-21T03:21:38.584Z [auth-api] info GET /user
+2023-10-21T03:21:41.108Z [auth-api] error POST  - user is not defined
+2023-10-21T03:21:42.912Z [auth-api] error POST  - user is not defined
+2023-10-21T03:22:30.599Z [auth-api] error POST  - Por favor, utilize outro e-mail.
+2023-10-21T03:23:41.237Z [auth-api] info POST /user - {"name":"gabriel","email":"gg123@gmail.com","pass":"$2b$08$l2Mp.TwX4Wz3y.QN1k38Oe8Hm4Tmu98.cONMB6Wzfc46zL1FRmvBy"}
+2023-10-21T03:23:48.101Z [auth-api] info GET /user
+2023-10-21T03:23:52.036Z [auth-api] error POST  - Por favor, utilize outro e-mail.
+2023-10-21T03:39:03.915Z [auth-api] info GET /user
+2023-10-21T03:39:36.527Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-21T03:39:50.648Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-21T03:39:54.705Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-21T03:43:08.548Z [auth-api] error POST  - A senha não atende aos critérios de segurança. A senha deve conter pelo menos 8 caracteres e incluir pelo menos uma letra maiúscula, um número e um caractere especial, como @$!%*?&.
+2023-10-21T03:45:46.536Z [auth-api] error POST  - A senha não atende aos critérios de segurança. A senha deve conter pelo menos 8 caracteres e incluir pelo menos uma letra maiúscula, um número e um caractere especial, como @$!%*?&.
+2023-10-21T03:45:53.872Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-21T03:46:39.973Z [auth-api] info GET /user
+2023-10-21T03:52:56.083Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-21T03:54:18.198Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-21T03:54:19.461Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-21T03:54:20.297Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-21T03:57:54.023Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-21T03:57:55.358Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-21T04:00:19.680Z [auth-api] error POST  - Nome, Email e Senha são obrigatórios
+2023-10-21T04:01:26.260Z [auth-api] error POST  - UserRepository is not defined
+2023-10-21T04:03:13.070Z [auth-api] error POST  - Por favor, utilize outro e-mail.
