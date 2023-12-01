@@ -15,5 +15,5 @@ Este projeto contém uma API de autenticação segura que visa proteger os dados
 
 ## Contato
 
-**Linkdln**: www.linkedin.com/in/gabriel-de-lelis-699056279
+**LinkedIn**: www.linkedin.com/in/gabriel-de-lelis-699056279
 
